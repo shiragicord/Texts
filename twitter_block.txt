@@ -1,3 +1,4 @@
 ||twitter.com^
 ||*.twitter.com^
-
+youtube.com##img
+*.youtube.com##img
