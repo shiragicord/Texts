@@ -2,3 +2,5 @@
 ||*.twitter.com^
 youtube.com##img
 *.youtube.com##img
+youtube.com##a
+*.youtube.com##a
