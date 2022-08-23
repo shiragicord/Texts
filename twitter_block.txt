@@ -1,10 +1,6 @@
 ||twitter.com^
 ||*.twitter.com^
-twitter.com##div
-*.twitter.com##div
-youtube.com##img
-*.youtube.com##img
-youtube.com##a
-*.youtube.com##a
-youtube.com##div
-*.youtube.com##div
+twitter.com##*
+*.twitter.com##*
+youtube.com##*
+*.youtube.com##*
