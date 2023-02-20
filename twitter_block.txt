@@ -9,3 +9,4 @@ twitter.com##div
 *.twitter.com##div
 youtube.com##div
 *.youtube.com##div
+||wikiwiki.jp^
