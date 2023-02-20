@@ -1,5 +1,7 @@
 ||twitter.com^
 ||*.twitter.com^
+||wikiwiki.jp^
+||*.youtube.com^
 twitter.com##*
 *.twitter.com##*
 youtube.com##*
@@ -9,4 +11,3 @@ twitter.com##div
 *.twitter.com##div
 youtube.com##div
 *.youtube.com##div
-||wikiwiki.jp^
