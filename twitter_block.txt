@@ -1,13 +1,9 @@
 ||twitter.com^
 ||*.twitter.com^
-||wikiwiki.jp^
-||*.youtube.com^
 twitter.com##*
 *.twitter.com##*
-youtube.com##*
-*.youtube.com##*
 
+twitter.com##script
 twitter.com##div
+*.twitter.com##script
 *.twitter.com##div
-youtube.com##div
-*.youtube.com##div
